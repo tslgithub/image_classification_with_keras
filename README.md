@@ -1,1 +1,1 @@
-# image_classification_with_keras
+# image_classification_with_keras_VGG16
